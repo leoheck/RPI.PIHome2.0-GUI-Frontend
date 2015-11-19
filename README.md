@@ -1,14 +1,13 @@
 
 # MyHome
 
-- Fork from PiHome to support my Beaglebone Black :)
+PiHome fork to support my Beaglebone Black :)
 
 Original project at: [http://pihome.harkemedia.de](http://pihome.harkemedia.de)
 
 #### MyHome 2.0 ####
 User: `admin`
 Pass: `pihome`
-
 
 # Services
 
